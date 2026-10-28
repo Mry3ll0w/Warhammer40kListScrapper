@@ -1,7 +1,7 @@
 """
 Configuración central del scraper de ListEngine (https://www.listengine.online).
 
-Todo lo ajustable está aquí. Casi todos los filtros también se pueden cambiar desde la
+Contiene todos los valores predeterminados del scrapper, todos estos se pueden cambiar desde la
 línea de comandos (python main.py --help) sin editar este archivo.
 """
 
@@ -11,7 +11,7 @@ URL_EVENTOS = URL_BASE + "/events"
 IDIOMA = "en-US"
 
 # --- Identificación (la práctica exige comprobar el User-Agent) ----------
-# UA honesto que identifica el propósito. Sustituye el correo por uno real.
+# UA honesto que identifica el propósito.
 USER_AGENT = "UOC-Practica1-Scraper/1.0 (proyecto academico; contacto: tu_correo@ejemplo.com)"
 HEADLESS = True
 
