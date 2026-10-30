@@ -12,7 +12,7 @@ IDIOMA = "en-US"
 
 # --- Identificación (la práctica exige comprobar el User-Agent) ----------
 # UA honesto que identifica el propósito.
-USER_AGENT = "UOC-Practica1-Scraper/1.0 (proyecto academico; contacto: tu_correo@ejemplo.com)"
+USER_AGENT = "UOC-Practica1-Scraper/1.0 (proyecto academico; contacto: aroldan@uoc.edu)"
 HEADLESS = True
 
 # --- Uso responsable (sitio pequeño: no saturarlo) -----------------------
