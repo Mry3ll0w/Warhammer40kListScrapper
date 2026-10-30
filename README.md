@@ -17,7 +17,6 @@ destacamentos, disposición de fuerzas, victorias-derrotas-empates) y listas de 
 |---|---|
 | DOI del dataset en Zenodo | https://doi.org/10.5281/zenodo.23622330 |
 | Sitio web extraído | https://www.listengine.online |
-| Vídeo explicativo (Google Drive UOC) | [COMPLETAR: https://drive.google.com/…] |
 
 ## 3. Archivos del repositorio
 
